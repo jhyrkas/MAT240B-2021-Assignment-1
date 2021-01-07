@@ -16,3 +16,4 @@ add_executable(sine sine.cpp)
 add_executable(sine-sweep sine-sweep.cpp)
 
 ## Add lines here to make new executable targets
+add_executable(sawtooth sawtooth.cpp)
