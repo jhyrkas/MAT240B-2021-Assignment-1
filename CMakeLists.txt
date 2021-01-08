@@ -19,10 +19,11 @@ add_executable(multiply multiply.cpp)
 add_executable(tanh tanh.cpp)
 
 ## Add lines here to make new executable targets
+add_executable(impulse impulse.cpp)
 add_executable(sawtooth sawtooth.cpp)
 add_executable(square square.cpp)
-add_executable(impulse impulse.cpp)
 add_executable(triangle triangle.cpp)
 add_executable(impulse-sweep impulse-sweep.cpp)
 add_executable(sawtooth-sweep sawtooth-sweep.cpp)
 add_executable(square-sweep square-sweep.cpp)
+add_executable(triangle-sweep triangle-sweep.cpp)
